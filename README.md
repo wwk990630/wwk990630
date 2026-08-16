@@ -10,10 +10,14 @@ I am interested in digital platforms, computational research, and reliable
 intelligent systems. I build tools that turn difficult data and research
 workflows into reproducible systems.
 
-## Selected work
+## Selected projects
 
-- **Travel data systems** — protocol analysis, reproducible parsers, data
-  contracts, and failure diagnostics across international travel platforms.
+- **[Travel Data Connectors](https://github.com/wwk990630/travel-data-connectors)**
+  — six offline-testable case studies in protocol analysis, data contracts,
+  evidence levels, and failure diagnostics.
+- **[TripAdvisor Data Pipeline](https://github.com/wwk990630/tripadvisor-scraper)**
+  — a tested pipeline case study covering parsing, pagination guards,
+  checkpoints, provenance, and release safety.
 - **Research tools** — small systems built from real research workflows and
   refined through daily use.
 - **Agent runtime experiments** — studying how tools, context, execution
@@ -25,9 +29,10 @@ workflows into reproducible systems.
 - Building reproducible infrastructure for computational research.
 - Learning agent runtimes from public implementations, beginning with Pi.
 
-## Methods
+## Working stack
 
-Python, JavaScript, Go, HTTP and browser protocols, data engineering,
-experiment design, and agent runtime analysis.
+Python, HTTP and browser protocols, data engineering, experiment design, and
+agent runtime analysis. I am currently learning TypeScript through public
+agent-runtime codebases.
 
 Email: wwk990630@gmail.com
