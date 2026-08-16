@@ -13,11 +13,13 @@ workflows into reproducible systems.
 ## Selected projects
 
 - **[Travel Data Connectors](https://github.com/wwk990630/travel-data-connectors)**
-  — six offline-testable case studies in protocol analysis, data contracts,
-  evidence levels, and failure diagnostics.
-- **[TripAdvisor Data Pipeline](https://github.com/wwk990630/tripadvisor-scraper)**
-  — a tested pipeline case study covering parsing, pagination guards,
-  checkpoints, provenance, and release safety.
+  — offline-testable Python cases for TripAdvisor, Expedia, Airbnb, Yelp,
+  Agoda, and Booking, with shared data contracts, provenance, pagination
+  guards, checkpoints, and evidence-bounded diagnostics.
+- **[China Travel Platform Research](https://github.com/wwk990630/china-travel-platform-research)**
+  — documentation-only Ctrip and Tujia studies focused on protocol-layer
+  reasoning, diagnostic checkpoints, rejected routes, and responsible
+  disclosure.
 - **Research tools** — small systems built from real research workflows and
   refined through daily use.
 - **Agent runtime experiments** — studying how tools, context, execution
